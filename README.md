@@ -8,7 +8,8 @@ Besides coding, I'm into **anime**, **sketching**, **video editing**, and explor
 ## 🎨 Hobbies & Interests
 
 - ✏️ Sketching
-- 📺 Watching anime (Favs: Demon Slayer, Death Note, My Dress-Up Darling & more)
+- 📺 Watching anime
+- 📚 Reading books
 - 📚 Reading about tech, global strategy, and defence systems
 - 🎮 Gaming (lightly) & exploring new skills
 
