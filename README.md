@@ -13,13 +13,3 @@ Besides coding, I'm into **anime**, **sketching**, **video editing**, and explor
 - 🎮 Gaming (lightly) & exploring new skills
 
 
-## 📫 Let’s Connect
-
-- 🌍 Location: Haryana, India
-- 💬 Discord: `yadavji72` 
-
-
-![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin454-maker&show_icons=true&theme=radical)
-
-
-
