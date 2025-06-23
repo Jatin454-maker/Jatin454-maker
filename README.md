@@ -1,15 +1,25 @@
-## Hi there 👋
+# 👋 Hello there, I'm Jatin!
 
-**Jatin454-maker/Jatin454-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner on a journey to explore the world of **tech**, **creativity**, and **self-growth**.  
+Currently, I'm learning some amazing stuff like **Python**, **HTML**, and **CSS**.  
+Besides coding, I'm into **anime**, **sketching**, **video editing**, and exploring **defence & geopolitics** topics.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🎨 Hobbies & Interests
+
+- ✏️ Sketching
+- 📺 Watching anime (Favs: Demon Slayer, Death Note, My Dress-Up Darling & more)
+- 📚 Reading about tech, global strategy, and defence systems
+- 🎮 Gaming (lightly) & exploring new skills
+
+
+## 📫 Let’s Connect
+
+- 🌍 Location: Haryana, India
+- 💬 Discord: `yadavji72` 
+
+
+![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jatin454-maker&show_icons=true&theme=radical)
+
+
 
