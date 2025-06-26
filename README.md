@@ -5,9 +5,8 @@ Currently, I'm learning some amazing stuff like **Python**, **HTML**, and **CSS*
 
 
 ## 🎨 Hobbies & Interests
-
-- ✏️ Sketching
 - 📺 Watching anime
 - 📚 Reading books
 - 🎮 Gaming (lightly) & exploring new skills
 - Interest in **defence & geopolitics**.
+- And many more....
